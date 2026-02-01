@@ -1,0 +1,8 @@
+{
+  "name": "automated-token-vesting",
+  "version": "1.0.0",
+  "description": "Linear token vesting for ERC-20 tokens",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
